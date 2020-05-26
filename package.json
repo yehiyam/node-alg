@@ -1,0 +1,16 @@
+{
+  "name": "alg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hkube/config": "^2.0.7",
+    "@hkube/nodejs-wrapper": "^1.0.4",
+    "lodash.orderby": "^4.6.0"
+  }
+}
